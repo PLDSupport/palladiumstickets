@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "glob": "^7.2.3",
+    "mongoose": "^8.0.3",
+    "util": "^0.12.5"
+  }
+}
